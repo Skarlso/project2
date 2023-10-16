@@ -5,5 +5,5 @@ import (
 )
 
 func Project2() string {
-	return dep.Test()
+	return dep.Test2()
 }
